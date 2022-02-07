@@ -1,0 +1,7 @@
+git+https://github.com/ozgur/python-firebase
+matplotlib
+numpy
+paho-mqtt
+pyzmq
+requests
+numpy
